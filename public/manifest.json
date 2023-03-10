@@ -1,0 +1,25 @@
+{
+  "name": "App_vue",
+  "short_name": "My App vue",
+  "icons": [
+    {
+      "src": "/img/icons/216.png",
+      "sizes": "216x216",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icons/162.png",
+      "sizes": "162x162",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icons/play_store_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#42b983"
+}

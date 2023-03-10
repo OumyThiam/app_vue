@@ -1,0 +1,15 @@
+{
+  "title": "Thiam Oumy ",
+  "message":"Oumy THIAM",
+  "title_about": "  About",
+
+  "drawer":{
+    "title_form": "Formulaire",
+    "home": "Acceuil",
+    "history": "Historique",
+    "title_history": "Historique formulaire",
+    "about":"Cette application calculera la hauteur d’une falaise (ou de n’importe quoi de suffisamment haut) en fonction du temps chute d’un objet jeter du haut de celle-ci."
+
+  }
+
+}
